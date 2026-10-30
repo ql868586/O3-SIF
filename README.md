@@ -1,6 +1,6 @@
 # O3-SIF Code
 
-This repository contains the custom Python code used for data harmonization, DML (Double Machine Learning) estimation, spatial heterogeneity analysis, and robustness checks for the manuscript submitted to *Nature Communications*.
+This repository contains the custom Python code used for data harmonization, DML (Double Machine Learning) estimation, spatial heterogeneity analysis, and robustness checks for the study titled "The hidden ozone crisis beneath vegetation greening: pervasive responses of solar-induced chlorophyll fluorescence to ozone in natural ecosystems".
 
 ## Environment Requirements
 - Python 3.12
